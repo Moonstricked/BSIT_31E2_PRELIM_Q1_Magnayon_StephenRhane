@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\transportresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\transportresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\submarine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\boat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\student\\documents\\31a2\\repos\\test02\\q1\\consoleapp1\\consoleapp1\\interfaces\\isailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286EBC7E-3D67-4BBB-98CA-A15CA4C03EB5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\isailable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Drone.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Drone.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Drone.cs",
+              "RelativeToolTip": "ConsoleApp1\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:25:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Submarine.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Submarine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Submarine.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Submarine.cs",
+              "RelativeToolTip": "ConsoleApp1\\Submarine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:24:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Motorcycle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Motorcycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:24:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Helicopter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Helicopter.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Helicopter.cs",
+              "RelativeToolTip": "ConsoleApp1\\Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:17:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Airplane.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Airplane.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Airplane.cs",
+              "RelativeToolTip": "ConsoleApp1\\Airplane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:15:11.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boat.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Boat.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Boat.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Boat.cs",
+              "RelativeToolTip": "ConsoleApp1\\Boat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:15:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportResolver.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\TransportResolver.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TransportResolver.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\TransportResolver.cs",
+              "RelativeToolTip": "ConsoleApp1\\TransportResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:09:37.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISailable.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ISailable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\ISailable.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Interfaces\\ISailable.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\ISailable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T03:06:38.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDriveable.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IDriveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:52:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:47:15.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Car.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:43:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\31A2\\repos\\test02\\Q1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T02:39:55.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
